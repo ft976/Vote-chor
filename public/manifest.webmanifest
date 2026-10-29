@@ -1,0 +1,17 @@
+{
+  "name": "Vote Runner — 3D Endless Meme Game",
+  "short_name": "VoteRunner",
+  "description": "Satirical 3D endless runner where Neta Ji runs collecting votes while dodging rival Vipaksh Bhai",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#020617",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "/assets/aistudio/images__3__b4222acb.jpeg",
+      "sizes": "192x192 512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
